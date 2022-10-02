@@ -1,0 +1,32 @@
+{
+  "name": "typist",
+  "version": "1.0.0",
+  "description": "typescript practice",
+  "main": "index.js",
+  "scripts": {
+    "parcelstart": "parcel index.html -p 8080",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:build": "tsc -w",
+    "start:run": "nodemon build/index.js",
+    "start:node": "concurrently npm start:*"
+  },
+  "keywords": [
+    "typescript",
+    "practice"
+  ],
+  "author": "vijethph",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.7.19",
+    "axios": "^0.27.2",
+    "concurrently": "^7.4.0",
+    "leaflet": "^1.8.0",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.4.0",
+    "@types/leaflet": "^1.7.11",
+    "parcel": "^2.7.0"
+  }
+}
