@@ -1,0 +1,19 @@
+{
+    "name": "simple-web-framework",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "scripts": {
+        "start:db": "json-server -w db.json",
+        "start:parcel": "parcel index.html"
+      },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+      "typescript": "^3.4.5"
+    },
+    "dependencies": {
+      "axios": "^0.18.0"
+    }
+}
