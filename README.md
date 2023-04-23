@@ -4,6 +4,16 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=vijethph_typescript-apps&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=vijethph_typescript-apps)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=vijethph_typescript-apps&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=vijethph_typescript-apps)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=vijethph_typescript-apps&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=vijethph_typescript-apps)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=vijethph_typescript-apps&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=vijethph_typescript-apps)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=vijethph_typescript-apps&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=vijethph_typescript-apps)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=vijethph_typescript-apps&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=vijethph_typescript-apps)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=vijethph_typescript-apps&metric=bugs)](https://sonarcloud.io/summary/new_code?id=vijethph_typescript-apps)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=vijethph_typescript-apps&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=vijethph_typescript-apps)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=vijethph_typescript-apps&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=vijethph_typescript-apps)
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=vijethph_typescript-apps)
 
 
 <!-- PROJECT LOGO -->
@@ -80,7 +90,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 <!-- LICENSE -->
 ## License
 
-Distributed under the Apache 2.0 License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
